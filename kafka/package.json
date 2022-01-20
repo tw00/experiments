@@ -1,0 +1,14 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "kafka-streams": "^5.0.0",
+    "kafkajs": "^1.15.0",
+    "node-rdkafka": "^2.12.0",
+    "winston": "^3.4.0"
+  }
+}
