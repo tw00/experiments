@@ -1,6 +1,6 @@
 #!/usr/bin/env ts-node
 
-import kafkaStreams from './lib/kafka';
+import kafkaStreams from '../example-cms/lib/kafka';
 
 const INPUT_TOPIC = 'monolog';
 
